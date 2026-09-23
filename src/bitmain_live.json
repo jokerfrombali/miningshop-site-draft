@@ -1,0 +1,155 @@
+[
+ {
+  "slug": "antminer-k7-63-5th",
+  "name": "Antminer K7 63.5 TH/s",
+  "watts": 3080,
+  "algo": "Eaglesong",
+  "hash": 63.5,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-ks3-9-4th",
+  "name": "Antminer KS3 9.4 TH/s",
+  "watts": 3500,
+  "algo": "kHeavyHash",
+  "hash": 9.4,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-l7-9500mh",
+  "name": "Antminer L7 9500 MH/s",
+  "watts": 3425,
+  "algo": "Scrypt",
+  "hash": 9500.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-l9-16gh",
+  "name": "Antminer L9 16 GH/s",
+  "watts": 3360,
+  "algo": "Scrypt",
+  "hash": 16000.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-l9-17gh",
+  "name": "Antminer L9 17 GH/s",
+  "watts": 3360,
+  "algo": "Scrypt",
+  "hash": 17000.0,
+  "unit": "TH/s",
+  "noise": 75
+ },
+ {
+  "slug": "antminer-s19-pro-110th",
+  "name": "Antminer S19 Pro 110 TH/s",
+  "watts": 3250,
+  "algo": "SHA-256",
+  "hash": 110.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-s19-xp-141th",
+  "name": "Antminer S19 XP 141 TH/s",
+  "watts": 3031,
+  "algo": "SHA-256",
+  "hash": 141.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-s19j-pro-104th",
+  "name": "Antminer S19j Pro 104 TH/s",
+  "watts": 3068,
+  "algo": "SHA-256",
+  "hash": 104.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-s21-200th",
+  "name": "Antminer S21 200 TH/s",
+  "watts": 3500,
+  "algo": "SHA-256",
+  "hash": 200.0,
+  "unit": "TH/s",
+  "noise": 75
+ },
+ {
+  "slug": "antminer-s21-hydro-335th",
+  "name": "Antminer S21 Hydro 335 TH/s",
+  "watts": 5360,
+  "algo": "SHA-256",
+  "hash": 335.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-s21-plus-216th",
+  "name": "Antminer S21+ 216 TH/s",
+  "watts": 3564,
+  "algo": "SHA-256",
+  "hash": 216.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-s21-plus-225th",
+  "name": "Antminer S21+ 225 TH/s",
+  "watts": 3150,
+  "algo": "SHA-256",
+  "hash": 225.0,
+  "unit": "TH/s",
+  "noise": 75
+ },
+ {
+  "slug": "antminer-s21-pro-234th",
+  "name": "Antminer S21 Pro 234 TH/s",
+  "watts": 3510,
+  "algo": "SHA-256",
+  "hash": 234.0,
+  "unit": "TH/s",
+  "noise": 75
+ },
+ {
+  "slug": "antminer-s21-xp-270th",
+  "name": "Antminer S21 XP 270 TH/s",
+  "watts": 3645,
+  "algo": "SHA-256",
+  "hash": 270.0,
+  "unit": "TH/s",
+  "noise": 75
+ },
+ {
+  "slug": "antminer-s21-xp-hydro-473th",
+  "name": "Antminer S21 XP Hydro 473 TH/s",
+  "watts": 5976,
+  "algo": "SHA-256",
+  "hash": 473.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-s23-hydro-580th",
+  "name": "Antminer S23 Hydro 580 TH/s",
+  "watts": 5510,
+  "algo": "SHA-256",
+  "hash": 580.0,
+  "unit": "TH/s",
+  "noise": null
+ },
+ {
+  "slug": "antminer-t21-190th",
+  "name": "Antminer T21 190 TH/s",
+  "watts": 3610,
+  "algo": "SHA-256",
+  "hash": 190.0,
+  "unit": "TH/s",
+  "noise": null
+ }
+]
