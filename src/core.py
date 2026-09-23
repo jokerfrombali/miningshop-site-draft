@@ -7,7 +7,7 @@
 """
 import html, json, os, re
 
-BASE = os.environ.get('MS_BASE', '/miningshop-site')
+BASE = os.environ.get('MS_BASE', '/miningshop-site-draft')
 PROD = 'https://miningshop.ru'            # canonical всегда указывает на будущий боевой адрес
 TEMPORARY = os.environ.get('MS_TEMP', '1') == '1'
 
